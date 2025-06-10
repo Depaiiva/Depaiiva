@@ -9,14 +9,11 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto de resolver desafios de lógica e programação competitiva!
 
-## 🧰 Minhas Linguagens
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-
-## 📊 Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Depaiiva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🧰 Minhas Linguagens Favoritas
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Depaiiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Depaiiva&show_icons=true&theme=radical)

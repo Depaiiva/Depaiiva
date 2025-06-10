@@ -15,10 +15,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
+## 📊 Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Depaiiva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 GitHub Stats
 ![Depaiiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Depaiiva&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Quer trocar uma ideia?
+## 📬 Quer trocar uma ideia?
 Fique à vontade para me mandar mensagem! 😄

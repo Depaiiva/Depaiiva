@@ -20,6 +20,4 @@
 
 ---
 
-Gosto de explorar novas tecnologias e me desafiar em plataformas como LeetCode e GitHub.
-
 Sinta-se à vontade para me chamar para conversar.

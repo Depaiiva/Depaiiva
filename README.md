@@ -1,6 +1,7 @@
 # Olá, eu sou o Carlos Henrique
 
 ## Sobre mim
+- Estudante de Engenharia de Software na Universidade de Brasília
 - Atualmente estou aprendendo: Java, Go, TypeScript, C
 - Busco colaborar com projetos open-source ou ideias criativas
 - Tenho interesse em aprender mais sobre performance de sistemas e boas práticas de código

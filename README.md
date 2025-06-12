@@ -5,8 +5,7 @@
 - Busco colaborar com projetos open-source ou ideias criativas
 - Tenho interesse em aprender mais sobre performance de sistemas e boas práticas de código
 - Pode me perguntar sobre desenvolvimento backend e algoritmos
-- Onde me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-usuario) | [Twitter](https://twitter.com/seu-usuario)
-- Pronomes: ele/dele
+- Onde me encontrar: [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/carlos-henrique-de-paiva-munis/))
 - Gosto de resolver desafios de lógica e programação competitiva
 
 ## Linguagens e ferramentas
@@ -24,6 +23,3 @@
 Gosto de explorar novas tecnologias e me desafiar em plataformas como LeetCode e GitHub.
 
 Sinta-se à vontade para me chamar para conversar.
-
-## GitHub Stats
-![Depaiiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Depaiiva&show_icons=true&theme=radical)

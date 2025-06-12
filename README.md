@@ -5,9 +5,8 @@
 - Atualmente estou aprendendo: Java, Go, TypeScript, C
 - Busco colaborar com projetos open-source ou ideias criativas
 - Tenho interesse em aprender mais sobre performance de sistemas e boas práticas de código
-- Pode me perguntar sobre desenvolvimento backend e algoritmos
+- Sempre busco e melhorar cada vez mais
 - Onde me encontrar: [LinkedIn](https://www.linkedin.com/in/carlos-henrique-de-paiva-munis/)
-- Gosto de resolver desafios de lógica e programação competitiva
 
 ## Linguagens e ferramentas
 

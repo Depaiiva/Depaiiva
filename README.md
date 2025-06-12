@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Depaiiva!
+#  Olá, eu sou o Depaiiva!
 
 ## 🚀 Sobre mim
 - 🌱 Atualmente estou aprendendo: `Java`, `Go`, `TypeScript`, `C`
@@ -9,11 +9,20 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: gosto de resolver desafios de lógica e programação competitiva!
 
-## 🧰 Minhas Linguagens Favoritas
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+
+<br/><br/>
+
+---
+
+🔍 Always exploring new technologies and challenging myself on platforms like LeetCode and GitHub.
+
+📫 Feel free to connect with me!
 
 ## 📈 GitHub Stats
 ![Depaiiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Depaiiva&show_icons=true&theme=radical)

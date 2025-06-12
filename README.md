@@ -1,4 +1,4 @@
-# Olá, eu sou o Depaiiva
+# Olá, eu sou o Carlos Henrique
 
 ## Sobre mim
 - Atualmente estou aprendendo: Java, Go, TypeScript, C

@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - Estudante de Engenharia de Software na Universidade de Brasília
-- Atualmente estou aprendendo: Java, C
+- Atualmente estou aprendendo: Java, C, Golang
 - Busco colaborar com projetos open-source ou ideias criativas
 - Tenho interesse em aprender mais sobre performance de sistemas e boas práticas de código
 - Sempre busco aprender e melhorar cada vez mais
@@ -13,6 +13,7 @@
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Go" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 
 <br/><br/>
 

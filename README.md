@@ -1,14 +1,14 @@
-# Olá, eu sou o Carlos Henrique
+# Hi, I'm Carlos Henrique
 
-## Sobre mim
-- Estudante de Engenharia de Software na Universidade de Brasília
-- Atualmente estou aprendendo: Java, C, C++, Golang e Spring Boot
-- Busco colaborar com projetos open-source ou ideias criativas
-- Tenho interesse em aprender mais sobre performance de sistemas e boas práticas de código
-- Sempre busco aprender e melhorar cada vez mais
-- Onde me encontrar: [LinkedIn](https://www.linkedin.com/in/carlos-henrique-de-paiva-munis/)
+## About me
+- Software Engineering student at the University of Brasília
+- Currently learning: Java, C, C++, Golang, and Spring Boot
+- Looking to collaborate on open-source projects or creative ideas
+- Interested in learning more about system performance and good coding practices
+- Always seeking to learn and improve more and more
+- Where to find me: [LinkedIn](https://www.linkedin.com/in/carlos-henrique-de-paiva-munis/)
 
-## Linguagens e ferramentas
+## Languages and tools
 
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
@@ -21,4 +21,4 @@
 
 ---
 
-Sinta-se à vontade para me chamar para conversar.
+Feel free to reach out and start a conversation.
